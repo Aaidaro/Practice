@@ -1,2 +1,2 @@
 # Practicce
-Projects to advance my skills in AI and analytics.
+Projects to advance my skills in AI and data analytics.
